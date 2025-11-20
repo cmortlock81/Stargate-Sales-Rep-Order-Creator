@@ -141,21 +141,5 @@ TROUBLESHOOTING
   → Fixed in v2.4.0 (created_via = mobile_sales_app)
 
 ===========================================
-EXTENDING THE PLUGIN
-===========================================
-
-The plugin can be extended with:
-
-- Sales Today / This Week summary  
-- Supervisor role to view all rep orders  
-- CSV export of rep orders  
-- Ticket PDF resend button  
-- Push notifications for new sales  
-- QR or NFC tap-to-login  
-- Limit reps to specific WooCommerce categories  
-
-Contact the developer (Chris & ChatGPT) for improvements.
-
-===========================================
 END
 ===========================================
